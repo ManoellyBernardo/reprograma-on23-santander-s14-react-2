@@ -1,0 +1,18 @@
+.content-repos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-repo {
+  width: 22em;
+  height: 15em;
+  margin: 1em;
+  padding: .5em;
+  text-align: center;
+  border-style: dashed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
